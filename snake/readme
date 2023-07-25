@@ -1,0 +1,8 @@
+Per far funzionare bisogna avere mingw32, SDL, SDL_Image installato.
+
+Per compilare il programma bisogna aprire il terminale nella cartella e scrivere questo:
+"mingw32-make -f .\MakeFile"
+
+Per eseguire bisogna scrivere:
+".\Main.cpp"
+
